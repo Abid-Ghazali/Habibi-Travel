@@ -1,2 +1,2 @@
 # Habibi-Travel
-A datebase project, in the second semester
+A database project, in the second semester
